@@ -1,0 +1,28 @@
+# Laravel
+web/vendor/
+web/node_modules/
+web/.env
+web/storage/*.key
+web/storage/pail
+web/public/storage
+web/public/build
+web/public/hot
+web/.phpunit.cache
+web/database/*.sqlite
+web/database/*.sqlite-journal
+
+# Mobile / Flutter
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/build/
+mobile/.pub/
+mobile/.pub-cache/
+
+# System and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+.agents/
